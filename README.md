@@ -1,16 +1,14 @@
-## Hi there 👋
+# Olá, eu sou Hugo! 👋
 
-<!--
-**hgOliveira-Santos/hgOliveira-Santos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um estudante de Ciência da Programação apaixonado por Python e C, atualmente cursando faculdade e buscando oportunidades de estágio na área de Ciência de Dados.
 
-Here are some ideas to get you started:
+## Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Estudante de Ciência da Programação no Centro Universitário UniCarioca
+- 🌱 Atualmente aprendendo Python e C
+- 👨‍💻 Interessado em Ciência de Dados
+
+## Contato
+
+- 📧 Email: [hg.oliveira2ds@gmail.com]
+- 🔗 LinkedIn: [www.linkedin.com/in/hugo-oliveira-ba77a1312]
