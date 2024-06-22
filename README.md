@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-- 🎓 Estudante de Ciência da Programação no Centro Universitário UniCarioca
+- 🎓 Estudante de Ciência da Computação no Centro Universitário UniCarioca
 - 👨‍💻 Interessado em Ciência de Dados
 - 🖥️ Em busca de oportunidades de trabalho
 
