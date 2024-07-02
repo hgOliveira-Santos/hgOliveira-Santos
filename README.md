@@ -1,20 +1,21 @@
 # Olá, eu sou Hugo Oliveira! 👋
 
 ## Sobre mim
+- 👨‍💻 Desenvolvedor fullstack
 
-- 🎓 Estudante de Ciência da Computação no Centro Universitário UniCarioca
-- 👨‍💻 Interessado em Ciência de Dados
-- 🖥️ Em busca de oportunidades de trabalho
+### Tecnologias
+  - Python
+  - HTML 
+  - CSS 
+  - JavaScript
 
-## Tecnologias
+### Formação Acadêmica
+- **Bacharel em Ciência da Computação**
+  - Centro Universitário Unicarioca
+  - Conclusão prevista: Dezembro de 2026
 
-- Python
-- C
-- HTML
-- CSS
-- Javascript
+### Contato
+- **Email:** hg.oliveira2ds@gmail.com
+- **Telefone:** (21) 98215-0581
 
-## Contato
-
-- 📧 Email: [hg.oliveira2ds@gmail.com]
-- 🔗 LinkedIn: [www.linkedin.com/in/hugo-oliveira-ba77a1312]
+  
