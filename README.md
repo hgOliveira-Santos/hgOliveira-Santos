@@ -1,4 +1,4 @@
-# Olá, eu sou Hugo Oliveira! 👋
+# Olá, eu sou o Hugo Oliveira! 👋
 
 ## Sobre mim
 - 👨‍💻 Desenvolvedor fullstack
