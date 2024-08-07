@@ -5,6 +5,9 @@
 
 ### Tecnologias
   - Python
+  - SQL
+  - MongoDB
+  - Java
   - HTML 
   - CSS 
   - JavaScript
