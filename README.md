@@ -7,10 +7,9 @@
   - Python
   - SQL
   - MongoDB
-  - Java
+  - Django
   - HTML 
   - CSS 
-  - JavaScript
 
 ### Formação Acadêmica
 - **Bacharel em Ciência da Computação**
