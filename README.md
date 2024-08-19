@@ -5,7 +5,7 @@
 
 ### Tecnologias
   - Python
-  - SQL
+  - MySQL
   - MongoDB
   - Django
   - HTML 
