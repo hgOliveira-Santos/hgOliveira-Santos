@@ -1,7 +1,7 @@
 # Olá, eu sou o Hugo Oliveira! 👋
 
 ## Sobre mim
-- 👨‍💻 Desenvolvedor fullstack
+- 👨‍💻 Desenvolvedor back-end
 
 ### Tecnologias
   - Python
