@@ -1,15 +1,13 @@
 # Olá, eu sou o Hugo Oliveira! 👋
 
 ## Sobre mim
-- 👨‍💻 Desenvolvedor back-end
+- Futuro Ciestista de Dados
 
 ### Tecnologias
   - Python
-  - MySQL
-  - MongoDB
-  - Django
-  - HTML 
-  - CSS 
+  - SQL
+  - R
+  - Power BI 
 
 ### Formação Acadêmica
 - **Bacharel em Ciência da Computação**
