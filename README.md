@@ -1,4 +1,4 @@
-# Olá, eu sou o Hugo Oliveira! 👋
+#  Hugo Oliveira! 
 
 ## Sobre mim
 - Futuro Ciestista de Dados
