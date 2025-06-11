@@ -1,7 +1,7 @@
 #  Hugo Oliveira
 
 ## Sobre mim
-- Futuro Ciestista de Dados
+- Futuro Cientista de Dados
 
 ### Tecnologias
   - Python
