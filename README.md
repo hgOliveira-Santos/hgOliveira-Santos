@@ -71,6 +71,6 @@ Exploração detalhada de dados históricos de preços e variações percentuais
 ## GitHub Stats
 
 <p align="center">
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=seu_usuario&show_icons=true&theme=radical" />
-  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu_usuario&layout=compact&theme=radical" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=hgOliveira-Santos&show_icons=true&theme=radical" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hgOliveira-Santos&layout=compact&theme=radical" />
 </p>
