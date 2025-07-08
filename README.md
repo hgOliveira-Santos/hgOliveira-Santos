@@ -1,7 +1,7 @@
 <h1 align="center">Hugo Oliveira</h1>
 
 <p align="center">
-  🚀 Futuro Cientista de Dados | Apaixonado por descobrir padrões e resolver problemas com dados
+  Futuro Cientista de Dados | Apaixonado por descobrir padrões e resolver problemas com dados
 </p>
 
 ---
