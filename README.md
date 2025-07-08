@@ -18,4 +18,4 @@
 - **Email:** hg.oliveira2ds@gmail.com
 - **Telefone:** (21) 98215-0581
 
-![HG's GitHub stats](https://github-readme-stats.vercel.app/api?username=seu_usuario&show_icons=true&theme=radical)
+![HG's GitHub stats](https://github-readme-stats.vercel.app/api?username=hgOliveira-Santos&show_icons=true&theme=radical)
