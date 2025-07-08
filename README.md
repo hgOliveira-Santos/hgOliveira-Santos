@@ -6,7 +6,7 @@
 
 ---
 
-## 🧠 Sobre mim
+## Sobre mim
 
 Sou estudante de Ciência da Computação com foco em **Ciência de Dados**. Atualmente desenvolvendo projetos próprios, aprendendo com cada erro e evolução. Tenho interesse especial em **machine learning, visualização de dados e análise preditiva**.  
 
@@ -14,7 +14,7 @@ Busco oportunidades para aplicar meus conhecimentos em projetos reais e contribu
 
 ---
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 <img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="R" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
@@ -24,7 +24,7 @@ Busco oportunidades para aplicar meus conhecimentos em projetos reais e contribu
 
 ---
 
-## 🎓 Formação Acadêmica
+## Formação Acadêmica
 
 - **Bacharelado em Ciência da Computação**  
   Centro Universitário UniCarioca  
@@ -32,7 +32,13 @@ Busco oportunidades para aplicar meus conhecimentos em projetos reais e contribu
 
 ---
 
-## 🚀 Projetos em Destaque
+## Experiência Profissional
+
+Atualmente estagiando na empresa júnior, onde participo de projetos reais de **construção e manutenção de sites utilizando WordPress**. Essa vivência tem fortalecido minhas habilidades práticas em desenvolvimento web, gestão de projetos e trabalho em equipe, além de ampliar meu portfólio com entregas reais para clientes.
+
+---
+
+## Projetos em Destaque
 
 ### 💎 Classificador de Qualidade de Diamantes com KNN
 Aplicação do algoritmo K-Nearest Neighbors para prever a categoria de corte dos diamantes, usando um pipeline completo com pré-processamento, validação do melhor *k* e análise de desempenho.  
@@ -54,7 +60,7 @@ Exploração detalhada de dados históricos de preços e variações percentuais
 
 ---
 
-## 📫 Contato
+## Contato
 
 - **Email:** hg.oliveira2ds@gmail.com 
 - **Telefone:** (21) 98215-0581
@@ -62,7 +68,7 @@ Exploração detalhada de dados históricos de preços e variações percentuais
 
 ---
 
-## ⚙️ GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img height="170px" src="https://github-readme-stats.vercel.app/api?username=seu_usuario&show_icons=true&theme=radical" />
