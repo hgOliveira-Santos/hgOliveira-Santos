@@ -24,14 +24,6 @@ Busco oportunidades para aplicar meus conhecimentos em projetos reais e contribu
 
 ---
 
-## Formação Acadêmica
-
-- **Bacharelado em Ciência da Computação**  
-  Centro Universitário UniCarioca  
-  *Conclusão prevista: Dezembro de 2026*
-
----
-
 ## Experiência Profissional
 
 Atualmente estagiando na empresa júnior, onde participo de projetos reais de **construção e manutenção de sites utilizando WordPress**. Essa vivência tem fortalecido minhas habilidades práticas em desenvolvimento web, gestão de projetos e trabalho em equipe, além de ampliar meu portfólio com entregas reais para clientes.
