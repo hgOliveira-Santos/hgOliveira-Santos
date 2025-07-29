@@ -26,8 +26,7 @@ Busco oportunidades para aplicar meus conhecimentos em projetos reais e contribu
 
 ## Experiência Profissional
 
-Atualmente estagiando na empresa júnior, onde participo de projetos reais de **construção e manutenção de sites utilizando WordPress**. Essa vivência tem fortalecido minhas habilidades práticas em desenvolvimento web, gestão de projetos e trabalho em equipe, além de ampliar meu portfólio com entregas reais para clientes.
-
+Atualmente estagiando em empresa júnior, onde participo de projetos reais de **construção e manutenção de sites utilizando WordPress**. Essa vivência tem fortalecido minhas habilidades práticas em desenvolvimento web, gestão de projetos e trabalho em equipe.
 ---
 
 ## Projetos em Destaque
