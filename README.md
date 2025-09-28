@@ -26,7 +26,7 @@ Busco oportunidades para aplicar meus conhecimentos em projetos reais e contribu
 
 ## Atividades Extracurriculares
 
-### 📊 Redemob – Projeto de Extensão Universitária
+### Redemob – Projeto de Extensão Universitária
 * Responsável pela revisão, refatoração e manutenção de scripts Python e Jupyter Notebooks para análise de dados de mobilidade.
 * Projeto e estruturo um modelo de biblioteca Python para otimizar a reutilização de código e futuras distribuições.
 
@@ -35,7 +35,7 @@ Busco oportunidades para aplicar meus conhecimentos em projetos reais e contribu
     * Atuei na migração completa de 3 websites de uma plataforma legada para WordPress.
     * Colaboração com uma equipe na reprodução de elementos e desenvolvimento de soluções personalizadas. 
 
-### 🏆 Hackaton de Mobilidade – Lab Mob 4.0 (FAPERJ / UFRJ / COPPE)
+### Hackaton de Mobilidade – Lab Mob 4.0 (FAPERJ / UFRJ / COPPE)
 * **3º Lugar** com o projeto de bicicletários inteligentes para integração com o transporte público.
 * Desenvolvimento em dupla, com foco em soluções urbanas sustentáveis e acessíveis. 
 
