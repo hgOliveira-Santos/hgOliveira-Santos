@@ -110,7 +110,7 @@ Aplicação do algoritmo K-Nearest Neighbors para prever a categoria de corte do
 
 Modelo de regressão linear para prever o salário anual com base nos anos de experiência, incluindo EDA, treinamento e avaliação com métricas de erro (MAE, MSE, RMSE).  
 **Resultado:** Erro médio absoluto de ~6.286 dólares.  
-[🔗 Veja o Projeto](https://github.com/hgOliveira-Santos/linear-regression-salary)
+[🔗 Repositório Completo](https://github.com/hgOliveira-Santos/linear-regression-salary)
 
 ---
 
